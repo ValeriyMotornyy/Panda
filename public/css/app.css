@@ -1,0 +1,25 @@
+body {
+  margin: 50px 0 0 0;
+  padding: 0;
+  width: 100%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: #666666;
+  font-size: 18px;
+}
+div {
+  overflow-wrap: break-word;
+}
+pre {
+  white-space: pre-wrap;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.description {
+  line-height: 40px;
+  font-size: 18px;
+}
